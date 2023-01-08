@@ -13,3 +13,9 @@ with col2:
     Hello my name is Oliver Nunn and i am a ClimateTech engineer from the University of Oxford.
     '''
     st.info(content)
+
+
+content2 = '''
+Below you can find some of the apps i have built in Python. Please feel free to contact me :)
+'''
+st.text(content2)
